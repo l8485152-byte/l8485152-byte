@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=220&section=header&text=Lamis%20Ahmed%20Alghamdi&fontSize=34&fontColor=ffffff&desc=Welcome%20to%20my%20Data%20Universe&descSize=16&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:7597de&height=220&section=header&text=Lamees%20Ahmed%20Alghamdi&fontSize=34&fontColor=ffffff&desc=Welcome%20to%20my%20Data%20Universe&descSize=16&descAlignY=65" />
 </p>
 
 <h2 align="center">🌌 Data Science Student</h2>
